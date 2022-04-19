@@ -1,0 +1,7 @@
+github.com/caarlos0/env =>
+github.com/sirupsen/logrus => log
+github.com/spf13/viper => read file json...
+github.com/go-redis/redis/v8 => redis
+github.com/dgrijalva/jwt-go => json web token
+github.com/google/uuid => generate uuid
+gorm.io/gorm
